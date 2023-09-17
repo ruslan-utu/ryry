@@ -2,14 +2,13 @@
 <html>
 	<head>
 		<meta.charset="UTF-8" />
-		<link rel="shortcat icon" href="file:///D:\Фотографии\html-d665b1de9bcce7a443722b84f4aeea9bfcbe05c2141a672547d683fcbd853918.webp">
 		<title>    
 			Щербак Руслан
 		</title>
 	</head>
 <body>
     <table cellpadding="10">
-        <td><img src="https://sun9-53.userapi.com/impg/PFW51EsvmEUPk4rVRX4rktm0ItTFcZeN8dqPuw/qDCtokrrXas.jpg?size=810x1080&quality=95&sign=68e6db1b100b0faa953036b8eb5f95d6&type=album" alt= width="300" height="200"></td>
+        <td><img src="https://sun9-53.userapi.com/impg/PFW51EsvmEUPk4rVRX4rktm0ItTFcZeN8dqPuw/qDCtokrrXas.jpg?size=810x1080&quality=95&sign=68e6db1b100b0faa953036b8eb5f95d6&type=album">
         <td><h1 class="logo"><em>Руслан Щербак</em></h1>
         <p><strong>New frontend create</strong></p></td>
     </table>
